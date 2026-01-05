@@ -11,8 +11,8 @@ const Projects = () => {
   const projectsData = [
     {
       id: 1,
-      title: "E-Commerce Platform",
-      description: "A full-stack e-commerce solution with React frontend, Node.js backend, and integrated payment processing.",
+      title: "Freelance Platform",
+      description: "A comprehensive freelance solution built with modern web technologies.",
       image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
       technologies: ["React", "Node.js", "MongoDB", "Stripe", "Tailwind CSS"],
       category: "Full Stack",

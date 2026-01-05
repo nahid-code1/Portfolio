@@ -12,6 +12,11 @@
     "clean": "rm -rf dist node_modules && npm install",
     "type-check": "tsc --noEmit"
   },
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+},
   "dependencies": {
     "framer-motion": "^10.16.16",
     "react": "^18.2.0",
