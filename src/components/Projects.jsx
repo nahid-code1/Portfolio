@@ -20,7 +20,7 @@ const Projects = () => {
     },
     {
       id: 2,
-      title: "Task Management App",
+      title: "Book Store App",
       description: "A collaborative project management tool with real-time updates, team collaboration features, and intuitive UI.",
       image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop",
       technologies: ["React", "Firebase", "Material-UI", "Socket.io"],
@@ -34,7 +34,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&h=400&fit=crop",
       technologies: ["React", "OpenWeather API", "Chart.js", "CSS3"],
       category: "Frontend",
-      featured: false
+      featured: true
     },
     {
       id: 4,
@@ -52,7 +52,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=600&h=400&fit=crop",
       technologies: ["Next.js", "Prisma", "NextAuth", "Tailwind CSS"],
       category: "Education",
-      featured: true
+      featured: false
     },
     {
       id: 6,
