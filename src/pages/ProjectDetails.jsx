@@ -114,14 +114,14 @@ const ProjectDetails = ({ isDark, toggleTheme }) => {
     },
     3: {
       id: 1,
-      title: "Freelance Platform",
+      title: "App Store",
       subtitle: "Full-Stack Web Application",
       description:
-        "A comprehensive freelance solution built with modern web technologies.",
+        "A comprehensive applciation solution built with modern web technologies.",
       longDescription:
-        "This freelance marketplace platform connects job posters and freelancers. Built with React, Node.js, Express, MongoDB, Firebase authentication, protected routes, dashboards, and responsive UI. Users can post jobs, browse listings, accept jobs posted by others, and manage activities through private dashboards.",
+        "This App Store platform allows users to browse, search, and view apps, manage downloads, and access personalized content through secure authentication, dashboards, and a responsive interface.",
       image:
-        "https://i.ibb.co.com/Y4kZxpbR/image1.png",
+        "https://i.ibb.co.com/WvrHkH5m/Appstore.jpg",
       technologies: [
         "React",
         "Node.js",
@@ -131,37 +131,35 @@ const ProjectDetails = ({ isDark, toggleTheme }) => {
         "Tailwind CSS"
       ],
       category: "Full Stack",
-      liveLink: "https://freelance-app-d4a34.web.app/",
+      liveLink: "https://gleaming-mandazi-1d61b8.netlify.app/",
       githubLink:
-        "https://github.com/nahid-code1/Freelance-App-Client.git",
+        "https://github.com/nahid-code1/App-Store.git",
       features: [
         "User Authentication & Authorization",
-        "Job Posting & Management",
-        "Latest & All Jobs Listing",
-        "Search, Filter & Sort Jobs",
-        "Job Acceptance System",
-        "My Added Jobs (Update/Delete)",
-        "My Accepted Jobs",
+        "App Instalation feature",
+        "Latest app Listing",
+        "Search, Filter & Sort apps",
+        "Ratings overview",
+        "Designated routes",
         "Protected Routes",
-        "Dashboard Pages",
         "Fully Responsive Design"
       ],
       challenges: [
         "Implementing secure role-based authentication and protected routes",
-        "Managing real-time job updates across different user dashboards",
+        "Managing real-time search implementation updates",
         "Ensuring responsive UI consistency across devices",
-        "Handling complex job status workflows"
+        "Handling complex app status workflows"
       ],
       futurePlans: [
-        "Real-time chat system between clients and freelancers",
+        "Real-time chat system between users and developers",
         "Payment gateway integration for secure transactions",
         "Advanced analytics for admin dashboard",
         "Notification system using WebSockets"
       ],
       gallery: [
-        "https://i.ibb.co.com/Y4kZxpbR/image1.png",
-        "https://i.ibb.co.com/QF3KGf4G/image2.png",
-        "https://i.ibb.co.com/TBpkkVKd/image3.png"
+        "https://i.ibb.co.com/SDhcdhvV/Appstore1.jpg",
+"https://i.ibb.co.com/RTMQwHXJ/Appstore2.jpg",
+"https://i.ibb.co.com/kgc9804s/Appstore4.jpg",
       ]
     }
   }

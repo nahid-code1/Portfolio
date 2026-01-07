@@ -13,7 +13,7 @@ const Projects = () => {
       id: 1,
       title: "Freelance Platform",
       description: "A comprehensive freelance solution built with modern web technologies.",
-      image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
+      image: "https://optim.tildacdn.net/tild3937-6631-4563-b963-303835663430/-/resize/824x/-/format/webp/freelance_platform_s.png.webp",
       technologies: ["React", "Node.js", "MongoDB", "Stripe", "Tailwind CSS"],
       category: "Full Stack",
       featured: true
@@ -22,46 +22,19 @@ const Projects = () => {
       id: 2,
       title: "Book Store App",
       description: "A collaborative project management tool with real-time updates, team collaboration features, and intuitive UI.",
-      image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop",
-      technologies: ["React", "Firebase", "Material-UI", "Socket.io"],
+      image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/f1/11/82/photo6jpg.jpg?w=900&h=500&s=1",
+      technologies: ["React", "Firebase", "Tan-stack", "MongoDB"],
       category: "Web App",
       featured: true
     },
     {
       id: 3,
-      title: "Weather Dashboard",
-      description: "A responsive weather application with location-based forecasts, interactive maps, and detailed analytics.",
-      image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&h=400&fit=crop",
-      technologies: ["React", "OpenWeather API", "Chart.js", "CSS3"],
+      title: "App Store",
+      description: "A responsive software application with multiple apps to download, feature and showase.",
+      image: "https://web.dailyjanakantha.com/wp-content/uploads/2025/09/App-STore-teaser-002.jpg",
+      technologies: ["React", "Firebase", "Chart", "CSS3"],
       category: "Frontend",
       featured: true
-    },
-    {
-      id: 4,
-      title: "Social Media Dashboard",
-      description: "Analytics dashboard for social media management with data visualization and automated reporting features.",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
-      technologies: ["Vue.js", "D3.js", "Express.js", "PostgreSQL"],
-      category: "Dashboard",
-      featured: false
-    },
-    {
-      id: 5,
-      title: "Learning Management System",
-      description: "Educational platform with course management, student tracking, and interactive learning modules.",
-      image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=600&h=400&fit=crop",
-      technologies: ["Next.js", "Prisma", "NextAuth", "Tailwind CSS"],
-      category: "Education",
-      featured: false
-    },
-    {
-      id: 6,
-      title: "Portfolio Website",
-      description: "Personal portfolio website showcasing projects, skills, and professional experience with modern design.",
-      image: "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=600&h=400&fit=crop",
-      technologies: ["React", "Framer Motion", "Tailwind CSS", "Lenis"],
-      category: "Portfolio",
-      featured: false
     }
   ]
 
